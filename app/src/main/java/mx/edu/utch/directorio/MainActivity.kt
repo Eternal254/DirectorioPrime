@@ -1,4 +1,4 @@
-package com.example.contactdirectory
+package mx.edu.utch.directorio
 
 import android.os.Bundle
 import android.widget.ArrayAdapter
